@@ -1,10 +1,21 @@
-# Node Centrality and Eigenvector Centrality
+# Node level features
+Node level features can be obtained in two different ways:
+1. Importance based features:
+a. Node degree
+b. Node centrality
 
-## Overview
+2. Structure based features
+a. Node centrality
+b. Clustering coefficients
+c. Graphlet based features
+
+## Node Centrality and Eigenvector Centrality
+
+### Overview
 
 Node centrality is a key concept in network analysis, providing a measure of the importance or influence of individual nodes within a network. One notable centrality measure is eigenvector centrality, which considers both direct and indirect connections when assessing the relative importance of nodes.
 
-## Eigenvector Centrality
+1. Eigenvector Centrality
 
 ### Definition
 
